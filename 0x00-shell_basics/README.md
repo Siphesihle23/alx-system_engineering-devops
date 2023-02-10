@@ -1,1 +1,1 @@
-Script that prints the absolute name of the
+display a content lidst in a lonh fomat
